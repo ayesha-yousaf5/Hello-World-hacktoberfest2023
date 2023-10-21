@@ -1,0 +1,10 @@
+//program in c++:
+#include <iostream>
+
+int main() {
+    std::cout << "Hello, World!" << std::endl;
+    return 0;
+}
+
+#program in python:
+print("Hello, World!")
